@@ -7,4 +7,5 @@ int main(void)
 
 	printf("a: %u\n", a);
 	printf("b: %u\n", b);
+	
 }

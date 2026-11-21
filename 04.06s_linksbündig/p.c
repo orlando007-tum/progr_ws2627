@@ -2,5 +2,5 @@
 
 int main(void)
 {
-
+printf("[%-10s]\n","Hallo");
 }

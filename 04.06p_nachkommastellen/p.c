@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("%f\n", 1.0);
-	printf("%f\n", 3.4142136);
+	printf("%.2f\n", 1.0);
+	printf("%.2f\n", 3.4142136);
 }
