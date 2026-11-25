@@ -7,4 +7,5 @@ int main(void)
 	printf("Ha%nllo%n\n", &a, &b);
 	printf("a: %d\n", a);
 	printf("b: %d\n", b);
+	
 }
