@@ -2,7 +2,7 @@
 
 int main()
 {
-	_BitInt(4) b;
+	_BitInt(8) b;
 	short s;
 
 	b = 6;				// 0110

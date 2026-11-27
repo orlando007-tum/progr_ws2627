@@ -3,5 +3,6 @@
 int main()
 {
 	bool b = false;
+	return 1;
 
 }
