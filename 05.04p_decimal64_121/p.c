@@ -3,10 +3,11 @@
 int main()
 {
 	// Definition von a und b hier angeben
-
+_Decimal64 a, b;
 
 	// Berechnung hier angeben
-
+a= 1.1DD;
+b= a*a;
 
 
 	// Überprüfung
