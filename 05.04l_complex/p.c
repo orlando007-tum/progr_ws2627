@@ -10,4 +10,5 @@ int main()
 	printf("sizeof(y): %ld Byte\n", sizeof(y));	// 16 Byte (2x8)
 	printf("sizeof(z): %ld Byte\n", sizeof(z));	// Laptop: 16 Byte (2x8)
 												// Eikon:  32 Byte (2x16)
+												
 }
